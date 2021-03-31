@@ -12,8 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "epxress": "0.0.1-security",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
     "mongoose": "^5.3.16",
-    "morgan": "^1.9.1"
+    "morgan": "^1.10.0"
   }
 }
